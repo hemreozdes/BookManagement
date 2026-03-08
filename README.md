@@ -7,7 +7,7 @@ A full-stack personal library application where users can manage their own book 
 ## 🖼️ Screenshots
 
 ### Login
-![Login](screenshots/LoginPage.png)
+![Login](screenshots/LoginPage.jPG)
 
 ### Empty Shelf
 ![Empty Shelf](screenshots/EmptyShelf.JPG)

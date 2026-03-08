@@ -10,16 +10,16 @@ A full-stack personal library application where users can manage their own book 
 ![Login](screenshots/LoginPage.png)
 
 ### Empty Shelf
-![Empty Shelf](screenshots/EmptyShelf.png)
+![Empty Shelf](screenshots/EmptyShelf.JPG)
 
 ### My Library
-![Library](screenshots/Library.png)
+![Library](screenshots/Library.JPG)
 
 ### Add Book
-![Add Book](screenshots/AddBook.png)
+![Add Book](screenshots/AddBook.JPG)
 
 ### Book Details
-![Book Details](screenshots/BookDetails.png)
+![Book Details](screenshots/BookDetails.JPG)
 
 ### Search
 ![Search](screenshots/SearchBook.png)
